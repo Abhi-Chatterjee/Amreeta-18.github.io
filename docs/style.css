@@ -17,7 +17,7 @@ table.a{
     z-index: 1;
 }
 .year{
-    padding-right: 30px;
+    padding-right: 10px;
 }
 .card {
   /* Add shadows to create the "card" effect */
@@ -191,9 +191,9 @@ img{
 
 .info{
     position: absolute;
-    top:60%;
-    left:25%;
-    right:25%;
+    top:57%;
+    left:20%;
+    right:20%;
     padding-top: 20px;
     /*
     padding-left: 140px;
@@ -221,6 +221,14 @@ h2{
     margin-left: 5px;
     color: black;
     text-align: center;
+}
+h3{
+    font-size:20px;
+    font-family: "poppins-semibold","poppins",sans-serif;
+    text-decoration: none;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 .heading{
     font-family: "poppins-semibold","poppins", sans-serif;
